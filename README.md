@@ -1,4 +1,4 @@
-# FSharp-snippets
+# FSharp snippets
 Various snippets of F# code that might be useful
 
 ## RomanNumerals
